@@ -1,4 +1,0 @@
-# BSC
-Binance Smart Chain
-
-0x9C7d9ad4582DFcff5973938e720c2B99f63Ce22e

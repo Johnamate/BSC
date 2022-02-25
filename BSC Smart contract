@@ -1,0 +1,12 @@
+# BSC
+Binance Smart Chain
+
+0x9C7d9ad4582DFcff5973938e720c2B99f63Ce22e
+
+echo "# Johnamate" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Johnamate/Johnamate.git
+git push -u origin main
