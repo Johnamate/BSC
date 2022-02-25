@@ -3,7 +3,7 @@ Binance Smart Chain
 
 0x9C7d9ad4582DFcff5973938e720c2B99f63Ce22e
 
-echo "# Johnamate" >> README.md
+echo "# >> README.md
 git init
 git add README.md
 git commit -m "first commit"
